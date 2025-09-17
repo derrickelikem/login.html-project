@@ -1,6 +1,7 @@
 # login.html-project 
-Group name 
-THE BIG 5
+Group name :
+THE BIG 5 
+GROUP MEMBERS :
 Prince kenney - 01245932B
 Gabriel Ampong - 01245481B
 Bernarc Badu - 01246495B
